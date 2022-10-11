@@ -1,4 +1,4 @@
-# Simple Hardhat Project Demo on AltLayer
+# Simple ERC20 Token Deploy on Alt Devnet
 
 To use this repo:
 
